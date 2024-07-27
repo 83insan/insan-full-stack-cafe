@@ -36,7 +36,9 @@ git clone https://github.com/83insan/insan-full-stack-cafe.git
 2. Open command prompt CLI
 3. Navigate to the `root` directory of this project
 4. Run the following command:
-```docker-compose up --build```
+   ```
+   docker-compose up --build
+   ```
 
 5. Please wait for it to be completed successfully, and it will be showing the messages from frontend and backend containers as shown below:
 
@@ -69,10 +71,14 @@ The sql scripts to set up the database from scratch are also provided in `backen
 1. Open command prompt CLI 
 2. Navigate to the `/backend` folder of this project
 3. Execute the following command:
-```npm install```
+   ```
+   npm install
+   ```
 
 4. After finished installing, execute the following command:
-```npm start```
+   ```
+   npm start
+   ```
 
 5. Please wait for it to be completed successfully, and it will be showing:
 
@@ -86,10 +92,14 @@ The sql scripts to set up the database from scratch are also provided in `backen
 1. Open command prompt CLI 
 2. Navigate to the `/backend` folder of this project
 3. Execute the following command:
-```npm install```
+   ```
+   npm install
+   ```
 
 4. After finished installing, execute the following command:
-```npm start```
+   ```
+   npm start
+   ```
 
 5. Please wait for it to be completed successfully, and it will be showing:
 

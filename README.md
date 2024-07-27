@@ -15,17 +15,17 @@ The technologies used for:
 5. Aggrid
 6. Material-UI
 
-
-## Clone the Repository
-```
-git clone https://github.com/83insan/insan-full-stack-cafe.git
-```
 ## General Prerequisites
 -	Nodejs on node 18.x or above
 (https://nodejs.org/en/download/prebuilt-installer)
 -	npm (usually included with Node.js)
 -	Git Bash (https://gitforwindows.org/)
--	Postman (https://www.postman.com/downloads/)
+-	Postman (https://www.postman.com/downloads/) for testing the backend APIs
+
+## Clone the Repository
+```
+git clone https://github.com/83insan/insan-full-stack-cafe.git
+```
 
 ## Set up and running via docker
 ### Pre-requisites

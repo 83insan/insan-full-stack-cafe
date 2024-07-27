@@ -1,6 +1,6 @@
 ## Overview
 
-All the tasks from the assignment have been implemented, except for _optional_ logo cafe both in backend and frontend.
+All the tasks from the assignment have been implemented, except for _optional_ cafe logo.
 
 The technologies used for:
 - Backend : 
